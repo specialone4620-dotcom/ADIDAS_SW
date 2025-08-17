@@ -1,0 +1,7 @@
+cd stock-app-v2
+git init
+git branch -M main
+git remote add origin https://github.com/본인계정/stock-app-v2.git
+git add .
+git commit -m "init stock-app-v2"
+git push -u origin main
